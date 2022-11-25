@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Castro Distance Calculator</string>
+    <string name="hint1">Enter x1</string>
+    <string name="hint2">Enter y1</string>
+    <string name="hint3">Enter x2</string>
+    <string name="hint4">Enter y2</string>
+    <string name="solve">Calculate</string>
+    <string name="txt_compute_result">The calculated distance is</string>
+    <string name="txt_demo">Close</string>
+    <string name="title">2D Distance Calculator</string>
+</resources>
